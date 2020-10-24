@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/shakeelkoper" target="blank"><img src="https://img.shields.io/twitter/follow/shakeelkoper?logo=twitter&style=for-the-badge" alt="shakeelkoper" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJs, Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **HTML, CSS, React, Javascript, Redux**
 
 - 📫 How to reach me **shakeelkoper@gmail.com**
 
